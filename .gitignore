@@ -1,0 +1,30 @@
+
+# .env file (contains API keys)
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# VS Code config
+.vscode/
+
+# Mac and Linux system files
+.DS_Store
+Thumbs.db
+
+# Log files
+bot.log
+
+# Zip archives
+*.zip
+
+# Jupyter Notebooks (optional)
+*.ipynb
+
+# Virtual environments
+venv/
+env/
